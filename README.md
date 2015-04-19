@@ -1,4 +1,4 @@
-# Figuring out asset pipeline
+# Figuring Out the Play Asset Pipeline
 
  1. CSS and image fingerprinting is working
  1. JQuery via webjars is working
